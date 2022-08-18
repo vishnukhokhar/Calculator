@@ -22,5 +22,5 @@ Please make sure to update tests as appropriate.
 
 _This site is licensed under the GPL license_
 
-Copyright(c) 2022 ** _Vishnu Khokhar_**
+Copyright(c) 2022 ** _Vishnu Khokhar_ **
 
