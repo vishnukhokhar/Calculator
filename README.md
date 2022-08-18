@@ -4,7 +4,7 @@ In this project I have made a calculator. The application is built using the Jav
 ## Installation
 
 `git clone`
-`cd react-calculator`
+`cd Calculator`
 `npm install yarn / npm start`
 
 
